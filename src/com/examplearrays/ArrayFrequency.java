@@ -19,7 +19,7 @@ public class ArrayFrequency {
             for (int j = i + 1; i < 5; i++) {
                 if (arr[i] == arr[j]) {
                     count++;
-                    System.out.println("frequency:" + count);
+                    System.out.println("frequency" +":" + count);
 
                 }
 
